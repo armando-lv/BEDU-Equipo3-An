@@ -19,8 +19,8 @@ Continuamos con nuestro analisis de la API con datos de encuestas realizadas en 
 - _```vaccinations_all_tweets_only_text.csv``` Conjunto de datos de tweets relacionados a las vacunas del COVID-19._
 
 ## 💻 Recursos adicionales
-- Video de presentación:
-- Notebook en Colab:
-- Proyecto módulo 3 (Fuente de nuestros datos):
-- Fuente cookie_cats.csv:
-- Fuente vaccinations_all_tweets.csv:
+- Video de presentación: https://youtu.be/S_vg1wtBFDY
+- Notebook en Colab: https://colab.research.google.com/drive/1JlCLUP2E2m7D01VdeRgIJH6rNpyQKx6s?usp=sharing
+- Proyecto módulo 3 (Fuente de nuestros datos procesados): https://github.com/armando-lv/BEDU-Equipo8-ProcDatos
+- Fuente cookie_cats.csv: https://www.kaggle.com/yufengsui/mobile-games-ab-testing
+- Fuente vaccinations_all_tweets.csv: https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets
