@@ -1,7 +1,7 @@
 # BEDU: DATA SCIENCE - FASE 3 (MÓDULO 4): ANÁLISIS DE DATOS CON PYTHON
 ¡Gracias por visitarnos! 😃
 
-## 🙋 Presentación: Equipo 8
+## 🙋 Presentación: Equipo 3
 1. Melina Ávila.
 3. Alejandro Gómora.
 4. Carlos Jiménez.
